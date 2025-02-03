@@ -42,4 +42,4 @@ This project automates AI news summarization to help data scientists and tech pr
 ## 🔮 Future Improvements
 - Create a webpage to check everyday
 - Create a databaset to save the data
-- Cxpand to news related to tech companies (and sentiment analysis with stock price)
+- Expand to news related to tech companies (and sentiment analysis with stock price)
